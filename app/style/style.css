@@ -1,0 +1,45 @@
+.row {height: 100%}
+
+/*About section*/
+#about {
+    padding: 20px 0 20px 0;
+    background-image: url("/images/background.png");
+}
+
+.header-text {
+    background-color: lightgrey;
+}
+
+.top-row {
+    height: 100%;
+}
+
+
+
+
+/*Sklls section*/
+
+#skills {
+    padding: 20px 0 20px 0;
+}
+
+
+/* Portfolio Section */
+
+#portfolio {
+    padding: 20px 0 20px 0;
+}
+
+/* Contact section */
+
+#contact {
+    padding: 20px 0 20px 0;
+}
+
+/* General Media Queries */
+
+@media (min-width: 1200px){
+    .container {
+/*        width: 100%;    */
+    }   
+}
