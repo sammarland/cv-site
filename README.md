@@ -13,6 +13,9 @@ $ npm install
 $ bower install
 $ node index.js
 ```
+
+## Jenkins
+
 ## Documentation
 
 More detailed docs to here.
